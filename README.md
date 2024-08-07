@@ -10,6 +10,10 @@
 
 
 
+* 官网下载  https://openemu.org/
+
+* brew 安装
+
 ```shell
 brew install openemu
 ```
